@@ -1,5 +1,24 @@
 @charset "UTF-8"
 
-body{
-  
+.box{
+
+}
+
+header{
+
+}
+
+footer{
+  opacity: 0.3;
+  text-align: center;
+  font-size: 12px;      /*固定長*/
+  width: 100%;
+
+  position: absolute;
+  bottom: 0px;
+}
+
+.thickLine{
+  text-decoration: underline;
+  font-weight: bold;
 }
