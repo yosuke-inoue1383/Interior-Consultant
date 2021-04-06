@@ -91,6 +91,7 @@ main{
 .iconPng{
   width: 50px;
   padding: 10px;
+  boder-radius: 50%;
 }
 
 .iconName{
@@ -262,9 +263,9 @@ footer{
   }
 
   .iconPng{
-    width: 25px;
+    width: 30px;
     padding: 5px;
-    margin-top: 0px;
+    boder-radius: 50%;
   }
 
   .iconName{
