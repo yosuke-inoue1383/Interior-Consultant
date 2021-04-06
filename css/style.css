@@ -255,7 +255,7 @@ footer{
   .icon{
     position: absolute;
     top: 70%;
-    max-width: 60%;
+    max-width: 100%;
     text-align: center;
     background-color: black;
     padding-right: 20px;
