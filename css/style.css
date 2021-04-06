@@ -157,6 +157,7 @@ footer{
       background-color: white;
       position: absolute;
   }
+
   .menu-btn span:before {
       bottom: 8px;
   }
@@ -257,6 +258,8 @@ footer{
     text-align: left;
     background-color: black;
     padding-right: 80px;
+
+    display: flex;
   }
 
   .iconPng{
