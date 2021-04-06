@@ -79,12 +79,13 @@ main{
 
 .icon{
   position: absolute;
-  top: 400px;
+  top: 450px;
   right: 50px;
   text-align: left;
   background-color: black;
   padding-right: 80px;
   font-size: 12px;
+  padding-bottom: 5px;
 }
 
 .iconPng{
