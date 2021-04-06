@@ -241,6 +241,7 @@ footer{
   }
 
   .contentArea2{
+    margin-left: 0px;
     position: relative;
     width: 100%;
   }
@@ -258,8 +259,6 @@ footer{
     text-align: left;
     background-color: black;
     padding-right: 80px;
-
-    display: flex;
   }
 
   .iconPng{
