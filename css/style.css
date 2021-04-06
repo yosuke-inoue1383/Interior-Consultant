@@ -205,5 +205,35 @@ footer{
   /*main*/
   main{
     flex-wrap: wrap;
+    margin-top: 50px;
+  }
+
+  .contentArea1{
+    width: 100%;
+    font-size: 150%;
+    text-align: left;
+  }
+
+  .titleText{
+    font-weight: bold;
+    font-size: 150%;
+  }
+
+  .contentArea2{
+    position: relative;
+    width: 100%;
+  }
+
+  .contentArea2 img{
+    width: 100%;
+  }
+
+  .icon{
+    position: absolute;
+    top: 300px;
+    right: 50px;
+    text-align: left;
+    background-color: black;
+    padding-right: 80px;
   }
 }
