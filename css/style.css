@@ -247,8 +247,7 @@ footer{
     width: 100%;
   }
 
-  .contentArea2 img{
-    margin-top: 50px;
+  .contentArea2  img{
     margin-left: 0px;
     width: 100%;
   }
@@ -264,7 +263,7 @@ footer{
 
   .iconPng{
     width: 25px;
-    padding: 0px;
+    padding: 5px;
     margin-top: 0px;
   }
 
