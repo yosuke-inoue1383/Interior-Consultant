@@ -1,4 +1,5 @@
 @charset "UTF-8"
+@import url("smart.css") screen and (max-width: 768px);
 
 .box{
   background: black;
@@ -27,7 +28,6 @@ header{
   list-style: none;
   display: flex;
   margin: 0 0 0 auto;
-
 }
 
 .nav li{
@@ -42,6 +42,10 @@ header{
 
 .nav li a:hover{
   text-decoration: underline;
+}
+
+.menuBox{
+  display: none;
 }
 
 .borderText{
@@ -81,10 +85,6 @@ main{
   text-align: left;
   background-color: black;
   padding-right: 80px;
-}
-
-.push{
-  height: 100px;
 }
 
 footer{
