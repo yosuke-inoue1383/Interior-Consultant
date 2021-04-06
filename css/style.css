@@ -57,7 +57,7 @@ main{
 .contentArea1{
   margin-top: 80px;
   width: 35%;
-  font-size: 200%;
+  font-size: 150%;
 }
 .titleText{
   font-weight: bold;
@@ -65,7 +65,7 @@ main{
 }
 
 .contentArea2{
-  margin-left: 100px;
+  margin-left: 50px;
   position: relative;
   width: 500px;
 }
