@@ -76,8 +76,8 @@ main{
 
 .icon{
   position: absolute;
-  top: 40%;
-  right: 10%;
+  top: 300px;
+  right: 50px;
   text-align: left;
   background-color: black;
   padding-right: 80px;
