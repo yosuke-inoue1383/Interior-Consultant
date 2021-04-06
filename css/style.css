@@ -227,7 +227,7 @@ footer{
   .contentArea2 img{
     margin-top: 50px;
     width: 100%;
-    margin: auto;
+    margin-left: 0px;
   }
 
   .icon{
