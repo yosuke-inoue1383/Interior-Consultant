@@ -255,9 +255,10 @@ footer{
   .icon{
     position: absolute;
     top: 70%;
+    max-width: 60%;
     text-align: center;
     background-color: black;
-    padding-right: 80px;
+    padding-right: 20px;
   }
 
   .iconPng{
