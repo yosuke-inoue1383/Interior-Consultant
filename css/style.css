@@ -84,6 +84,7 @@ main{
   text-align: left;
   background-color: black;
   padding-right: 80px;
+  font-size: 12px;
 }
 
 footer{
@@ -210,12 +211,12 @@ footer{
   /*main*/
   main{
     flex-wrap: wrap;
-    margin-top: 50px;
+    margin-top: 20px;
   }
 
   .contentArea1{
     width: 100%;
-    font-size: 100%;
+    font-size: 120%;
     text-align: left;
   }
 
