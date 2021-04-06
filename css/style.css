@@ -91,7 +91,7 @@ main{
 .iconPng{
   width: 50px;
   padding: 10px;
-  boder-radius: 50%;
+  border-radius: 50%;
 }
 
 .iconName{
@@ -265,7 +265,7 @@ footer{
   .iconPng{
     width: 30px;
     padding: 5px;
-    boder-radius: 50%;
+    border-radius: 50%;
   }
 
   .iconName{
